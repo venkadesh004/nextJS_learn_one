@@ -1,4 +1,5 @@
 Learning Next JS with TypeScript and Tailwind CSS
+
 PORJECT ONE
 
 ## Getting Started

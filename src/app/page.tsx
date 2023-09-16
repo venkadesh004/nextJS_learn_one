@@ -1,4 +1,4 @@
-import {MainPage, ContentPage, Testimonials} from "../containers";
+import {MainPage, ContentPage, Testimonials, ImageSection, Footers} from "../containers";
 
 export default function Home() {
   return (
@@ -6,6 +6,8 @@ export default function Home() {
       <MainPage />
       <ContentPage />
       <Testimonials />
+      <ImageSection />
+      <Footers />
     </div>
   );
 }

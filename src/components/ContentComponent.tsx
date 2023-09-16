@@ -52,8 +52,8 @@ function ContentComponent() {
           </a>
         </div>
       </div>
-      <div className="w-full flex items-center justify-between h-max">
-        <div className="basis-1/2 relative">
+      <div className="w-full flex items-center justify-between h-[39.5rem]">
+        <div className="basis-1/2 relative h-[39.5rem]">
           <Image src={ImageGraphicDesign} alt="" className="w-full absolute top-0 left-0" />
           <div className="w-full absolute top-96 left-0 flex flex-col items-center px-32">
             <h1 className="font-secondary text-dark-desaturated-cyan text-3xl font-extrabold">Graphic Design</h1>
@@ -64,7 +64,7 @@ function ContentComponent() {
             </p>
           </div>
         </div>
-        <div className="basis-1/2 relative">
+        <div className="basis-1/2 relative h-[39.5rem]">
           <Image src={ImagePhotography} alt="" className="w-full absolute top-0 left-0" />
           <div className="w-full absolute top-96 left-0 flex flex-col items-center px-32">
             <h1 className="font-secondary text-very-dark-desaturated-blue text-opacity-75 text-3xl font-extrabold">Photography</h1>
